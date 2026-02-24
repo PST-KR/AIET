@@ -1,2 +1,2 @@
-# AISE
-AI Speak English
+# AIET
+AI English Tutor
