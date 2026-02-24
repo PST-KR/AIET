@@ -1,3 +1,0 @@
-﻿# AIET
-
-AI English Tutor
